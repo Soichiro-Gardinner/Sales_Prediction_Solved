@@ -5,7 +5,7 @@
 ### -And Finally Commited certain metrics to evaluate our data processing.
 
 # "Variable Name	Description"
-- **Item_Identifier:**	Unique product ID.
+- **<font color='#ffd966'>Item_Identifier:</font>**	Unique product ID.
 - **Item_Weight:**	Weight of product.
 - **Item_Fat_Content:**	Whether the product is low fat or regular.
 - **Item_Visibility:**	The percentage of total display area of all products in a store allocated to the particular product.
@@ -20,3 +20,6 @@
 
 ## For deeper understanding: 
 https://colab.research.google.com/drive/1k1menxP0IeKzTyZrXn6UFurE722TE0N6?usp=sharing
+
+# Any Questions?
+### **Contact:** Castanazascar916@gmail.com
